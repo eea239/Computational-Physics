@@ -42,14 +42,3 @@ R = 6371
 π = 3.14
 h = (G*M*T**2/4*π**2)**1/3 - R
 print("The altitude of the satellite is",h,"meters")
-
-
-
-
-
-
-
-
-
-
-
